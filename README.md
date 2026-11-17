@@ -5,7 +5,7 @@
 
 面向学生、科研人员与算法工程师：**开箱即用、零代码配置、参数自动生成、训练过程可视**。
 
-<img src="docs/images/home.png" alt="演示" width="736" />
+<img src="docs/images/home.png" alt="演示" width="768" />
 
 ---
 
